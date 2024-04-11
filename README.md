@@ -1,4 +1,4 @@
-Python OpenCV Prosjekt
+**Python OpenCV Prosjekt**
 
 Dette programmet er en automatisk fiskebot som tar i bruk Pythons "OpenCV" og er egnet for spillet "World of Warcraft".
 Bottens første funksjon er å ta flere skjermdumper av et bestemt vindu i sekundet og dermed lete etter korrekt RGB2BGR
