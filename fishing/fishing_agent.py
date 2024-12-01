@@ -6,7 +6,7 @@ import time
 class FishingAgent:
     def __init__(self, main_agent) -> None:
         self.main_agent = main_agent  # Reference to the main agent
-        self.fishing_target = cv.imread("C:\\Users\\RubenDesktop\\Desktop\\Harvard-cs50-final\\fishing\\assets\\fishing_target.png")  # Load the fishing target image
+        self.fishing_target = cv.imread("Image path goes here")  # Load the fishing target image
         self.fishing_thread = None  # Initialize the fishing thread
 
     def cast_lure(self):
